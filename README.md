@@ -3,4 +3,4 @@ This repository reflects my growing proficiency in SQL using PostgreSQL as part 
 Key topics and features include: CRUD Operations Joins (INNER, LEFT, RIGHT, FULL) Subqueries & Nested Queries Window Functions Common Table Expressions (CTEs) Aggregation and GROUP BY Views, Indexing, and Constraints Stored Procedures, Functions & Triggers Query Optimization Techniques
 Each project folder includes: Problem statements and objectives SQL scripts with well-commented solutions Sample datasets (where applicable) Readme files explaining logic and learning outcomes
 This repository reflects my growing proficiency in SQL using PostgreSQL as part of my learning experience.
-SQL blog on window functions-https://www.numpyninjaacademy.com/post/window-functions-in-sql-2
+SQL blog on window functions-https://medium.com/@rani.pukkella/window-functions-in-sql-6424710d3d36
